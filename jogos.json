@@ -1,0 +1,68 @@
+{
+    "jogos": [
+        {
+            "chat_id": -635903035,
+            "msg_id": 39,
+            "player1": "@Fotavares",
+            "player2": "@Jorjaobot",
+            "voto1": "0",
+            "voto2": "1"
+        },
+        {
+            "chat_id": -635903035,
+            "msg_id": 41,
+            "player1": "@Fotavares",
+            "player2": "@Fotavares",
+            "voto1": "1",
+            "voto2": null
+        },
+        {
+            "chat_id": -1001494834857,
+            "msg_id": 107792,
+            "player1": "@Fotavares",
+            "player2": "@GladiadorDePlastico",
+            "voto1": "2",
+            "voto2": "2"
+        },
+        {
+            "chat_id": -1001494834857,
+            "msg_id": 107794,
+            "player1": "@Fotavares",
+            "player2": "@El_Hydrargyrum",
+            "voto1": "0",
+            "voto2": "2"
+        },
+        {
+            "chat_id": -1001494834857,
+            "msg_id": 107805,
+            "player1": "@GladiadorDePlastico",
+            "player2": "@ladylovelace19",
+            "voto1": "0",
+            "voto2": "2"
+        },
+        {
+            "chat_id": -1001494834857,
+            "msg_id": 107823,
+            "player1": "@El_Hydrargyrum",
+            "player2": "@Fotavares",
+            "voto1": "1",
+            "voto2": "0"
+        },
+        {
+            "chat_id": -1001494834857,
+            "msg_id": 107828,
+            "player1": "@El_Hydrargyrum",
+            "player2": "@Fotavares",
+            "voto1": "0",
+            "voto2": "2"
+        },
+        {
+            "chat_id": -1001494834857,
+            "msg_id": 107832,
+            "player1": "@GladiadorDePlastico",
+            "player2": "@travaobot",
+            "voto1": "1",
+            "voto2": null
+        }
+    ]
+}
